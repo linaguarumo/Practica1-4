@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Practica1.4</string>
+    <string name="negro">Negro</string>
+    <string name="marron">Marrón</string>
+    <string name="rojo">Rojo</string>
+    <string name="naranja">Naranja</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="purpura">Purpura</string>
+    <string name="gris">Gris</string>
+    <string name="blanco">Blanco</string>
+    <string name="red">Rojo</string>
+    <string name="dorado">Dorado</string>
+    <string name="codigo">Codigo de Colores</string>
+    <string name="resistencia">Resistencia de 4 Bandas</string>
+    <string name="cifra1">1º Cifra</string>
+    <string name="cifra2">2º cifra</string>
+    <string name="cifraM">Multiplicador</string>
+    <string name="cifraT">Tolerancia</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado:</string>
+
+    <string-array name="cifra1">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+
+    <string-array name="cifra2">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name="cifraM">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+
+    <string-array name="cifraT">
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+</resources>
